@@ -1,0 +1,13 @@
+* {
+    margin: auto;
+    padding: auto;
+}
+
+.tabel {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+th {
+    background-color: rgb(204, 229, 231);
+}
